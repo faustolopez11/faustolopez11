@@ -1,7 +1,7 @@
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 ![Header image](imagen.png)
 
-I'm a Full Stack Developer passionate about building scalable web applications and automating data workflows. Let's build something great together!
+Full Stack Developer | Architecting scalable web solutions and advanced data automation systems.
 
 <p align="center">
   <img
@@ -26,12 +26,17 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-¡Hola! Soy **Fausto**, un desarrollador enfocado en el ecosistema de **React**, **Next.js** y **Supabase**. Me especializo en crear interfaces modernas y funcionales, además de desarrollar soluciones avanzadas de **web scraping** con Python para la extracción y análisis de datos.
+Soy **Fausto**, Programador Universitario egresado de la **UTN (FRT)**. Mi enfoque está en el desarrollo de software de alto impacto, combinando la robustez del backend con interfaces modernas y eficientes.
 
-Siempre estoy explorando nuevas herramientas para optimizar procesos y mejorar la experiencia de usuario. Actualmente, estoy trabajando en sistemas de gestión a medida y perfeccionando mis habilidades en automatización.
+Actualmente, centro mi stack en el ecosistema de **Next.js**, **React** y **Supabase**, construyendo sistemas de gestión a medida que resuelven problemas reales de negocio. Además, desarrollo arquitecturas avanzadas de **Web Scraping** y automatización con **Python**, transformando grandes volúmenes de datos en información estratégica.
 
-¡Conectemos!
+Desde el diseño de la arquitectura hasta el despliegue final, mi prioridad es la escalabilidad y la optimización de procesos.
 
+¡Conectemos y hablemos de código!
+
+<p align="center">
+  <strong>Especialista en Desarrollo Web • Automatización de Datos • Infraestructura</strong>
+</p>
 
 ## 🎯 Actualmente enfocado en
 
@@ -41,6 +46,29 @@ Siempre estoy explorando nuevas herramientas para optimizar procesos y mejorar l
 - Soluciones con **IA aplicada**.
 - Productos web modernos con **Next.js**, **React** y **TypeScript**.
 
+
+
+## ⚙️ Tecnologías con las que trabajo habitualmente
+
+### Frontend
+React • Vue • HTML5 • CSS3 • JavaScript • TypeScript • Bootstrap • TailwindCSS
+
+### Backend
+Node.js • Express • PHP • Python • .NET
+
+### Bases de datos
+PostgreSQL • MySQL • MongoDB • MariaDB
+
+### DevOps e infraestructura
+Docker • Nginx • Linux • Firebase
+
+### CMS & E-commerce
+WordPress • WooCommerce
+
+### Otros
+Git • Arduino • C#
+
+---
 
 ## ⚡ Technologies  
 

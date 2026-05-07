@@ -17,6 +17,17 @@ Siempre estoy explorando nuevas herramientas para optimizar procesos y mejorar l
 
 ¡Conectemos!
 
+
+## 🎯 Actualmente enfocado en
+
+- Software a medida para empresas.
+- Automatizaciones con **n8n**.
+- Integraciones con **APIs** y **Supabase**.
+- Soluciones con **IA aplicada**.
+- Productos web modernos con **Next.js**, **React** y **TypeScript**.
+
+---
+
 <div>
 <a href="https://github.com/faustolopez11" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />

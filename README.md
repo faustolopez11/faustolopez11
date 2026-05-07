@@ -3,7 +3,12 @@
 
 I'm a Full Stack Developer passionate about building scalable web applications and automating data workflows. Let's build something great together!
 
-
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=1000&lines=Si+puedes+imaginarlo%2C+puedes+programarlo.;Software+a+medida+para+problemas+reales.;Automatización%2C+APIs+e+IA+aplicada.;Construyendo+soluciones+con+impacto+real."
+    alt="Typing SVG"
+  />
+</p>
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 ¡Hola! Soy **Fausto**, un desarrollador enfocado en el ecosistema de **React**, **Next.js** y **Supabase**. Me especializo en crear interfaces modernas y funcionales, además de desarrollar soluciones avanzadas de **web scraping** con Python para la extracción y análisis de datos.

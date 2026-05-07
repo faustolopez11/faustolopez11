@@ -9,6 +9,8 @@ I'm a Full Stack Developer passionate about building scalable web applications a
     alt="Typing SVG"
   />
 </p>
+
+
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 ¡Hola! Soy **Fausto**, un desarrollador enfocado en el ecosistema de **React**, **Next.js** y **Supabase**. Me especializo en crear interfaces modernas y funcionales, además de desarrollar soluciones avanzadas de **web scraping** con Python para la extracción y análisis de datos.

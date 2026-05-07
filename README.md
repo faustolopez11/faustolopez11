@@ -1,7 +1,10 @@
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 ![Header image](imagen.png)
 
-Full Stack Developer | Architecting scalable web solutions and advanced data automation systems.
+<p align="center">
+  <strong>Full Stack Developer | Architecting scalable web solutions and advanced data automation systems.</strong>
+</p>
+
 
 <p align="center">
   <img

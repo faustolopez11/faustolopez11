@@ -5,7 +5,7 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=1000&lines=Si+puedes+imaginarlo%2C+puedes+programarlo.;Software+a+medida+para+problemas+reales.;Automatización%2C+APIs+e+IA+aplicada.;Construyendo+soluciones+con+impacto+real."
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=1000&lines=Especialista+en+React%2C+Next.js+y+Supabase.;Automatización%2C+APIs+e+IA+aplicada.;Web+Scraping+avanzado+con+Python.;Software+a+medida+para+problemas+reales.;Construyendo+soluciones+con+impacto+real."
     alt="Typing SVG"
   />
 </p>

@@ -7,6 +7,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 
 I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from [The University of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
+<div>
 <a href="https://github.com/faustolopez11" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -19,6 +20,7 @@ I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from
 <a href="https://linkedin.com/in/faustolopez11" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+</div>
 
 ## ⚡ Technologies  
   
